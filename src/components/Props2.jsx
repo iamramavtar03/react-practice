@@ -5,6 +5,8 @@ const Array_map= () => {
     <>
    
     <h1>Props second here is the updates</h1>
+
+    
     </>
     
   )
