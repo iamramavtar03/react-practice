@@ -4,7 +4,7 @@ const Array_map= () => {
   return (
     <>
    
-    <h1>Props second here is the updates</h1>
+    <h1 className='bg-green-400'>Props second here is the updates</h1>
 
     
     </>
