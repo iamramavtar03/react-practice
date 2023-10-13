@@ -3,7 +3,7 @@ import User from './User'
 import Counter from './counter'
 import Stateex from './Stateex'
 import Props1 from './components/Props1'
-import Props2 from './components/Props2'
+import Props2 from './components/First'
 const App = () => {
   return (
     <div>
