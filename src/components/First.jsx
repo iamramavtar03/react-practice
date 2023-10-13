@@ -1,7 +1,7 @@
 import  { useState } from "react"
 
 const First = () =>{
-    const [color, setColor] = useState("yellow")
+    const [color, setColor] = useState("")
     return (
       
       
