@@ -17,7 +17,7 @@ const Counter = () => {
          <button onClick={addOne}>Add one</button>
          <button onClick={minusOne}>Minus One</button>
          <button onClick={addTwo}>Add two</button>
-         <input
+         <input 
             id="addTwo"
             type="number"
             value={inputValue}

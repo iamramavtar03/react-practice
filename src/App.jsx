@@ -4,6 +4,7 @@ import Counter from './counter'
 import Stateex from './Stateex'
 import Props1 from './components/Props1'
 import Props2 from './components/First'
+import Passwordgenerator from './components/Passwordgenerator'
 const App = () => {
   return (
     <div>
@@ -11,6 +12,7 @@ const App = () => {
       <Counter />
       <Stateex />
       <Props2 />
+      <Passwordgenerator />
     </div>
   )
 } 
